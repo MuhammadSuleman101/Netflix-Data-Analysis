@@ -4,7 +4,6 @@ Data analysis and visualization of Netflix dataset using Python.
 
 This project focuses on exploring and analyzing the Netflix dataset to uncover trends, patterns, and insights.
 We use Python along with pandas, NumPy, and Matplotlib/Seaborn for data cleaning, transformation, and visualization.
-
 The dataset contains information about TV Shows and Movies available on Netflix, including details like title, cast, director, release year, rating, and more.
 Objectives
 
