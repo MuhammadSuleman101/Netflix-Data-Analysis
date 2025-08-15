@@ -91,7 +91,7 @@ pip install pandas numpy matplotlib seaborn
 
 Steps:
 Clone this repository:
-git clone https://github.com/YourUsername/netflix-analysis.git
+git clone https://github.com/MuhammadSuleman101/netflix-analysis.git
 
 Navigate to the project folder:
 cd netflix-analysis
